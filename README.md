@@ -17,6 +17,7 @@
 3. **Paste the Script**
    - Copy the entire script from `Quest-script.txt`
    - Paste it in the console and press Enter.
+   - if there shows error type `allow pasting`
 
 4. **Let it Run**
    - Script will automatically detect your active quests.
